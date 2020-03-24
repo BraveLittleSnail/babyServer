@@ -1,1 +1,0 @@
-wo shi a.cpp
